@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Unreal Github/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/Sounds/Background_Music/A_Journey_Awaits_Cue.uasset",
+				"E:/Unreal Github/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
+				"E:/Unreal/UE_5.4/Engine/Content/EngineSounds/ClassName.uasset",
+				"E:/Unreal/UE_5.4/Engine/Content/EngineSounds/Master.uasset",
 				"C:/Users/SOglesby/Desktop/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/Sounds/Background_Music/A_Journey_Awaits.uasset",
 				"C:/Users/SOglesby/Desktop/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/Sounds/Background_Music/SuperGrottoEscape.uasset",
 				"C:/Users/SOglesby/Desktop/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/Sounds/Scene/Death_Is_Just_Another_Path.uasset",
