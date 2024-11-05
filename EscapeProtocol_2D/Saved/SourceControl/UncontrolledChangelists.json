@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Isaia/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/Custom_Assets/Health_Blueprint.uasset",
+				"C:/Users/Isaia/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Blueprints/BP_SideScrollerCharacter.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Spike_Blueprint.uasset",
+				"C:/Users/Isaia/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
 				"E:/Unreal Github/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/Sounds/Background_Music/A_Journey_Awaits_Cue.uasset",
 				"E:/Unreal Github/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Maps/MAP_SideScroller.umap",
 				"E:/Unreal/UE_5.4/Engine/Content/EngineSounds/ClassName.uasset",
