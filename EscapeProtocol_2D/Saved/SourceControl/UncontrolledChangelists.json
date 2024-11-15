@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/IMajeed/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/AssetPack1/Spikes/spike.uasset",
+				"C:/Users/IMajeed/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Maps/Damage.uasset",
+				"C:/Users/IMajeed/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Maps/EndGAME.uasset",
+				"C:/Users/IMajeed/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/AssetPack1/Spikes/Spike_03_Sprite.uasset",
+				"C:/Users/IMajeed/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/2DSideScroller/Maps/Level1.umap",
 				"C:/Users/JRizzuto/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/AssetPack1/P_Tiles/Placeholder_Tileset_TileSet.uasset",
 				"C:/Users/JRizzuto/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/AssetPack1/Astronaut/AstroWalk_1.uasset",
 				"C:/Users/JRizzuto/Documents/GitHub/EscapeProtocol_Unreal/EscapeProtocol_2D/Content/AssetPack1/Astronaut/AstroWalk_2.uasset",
