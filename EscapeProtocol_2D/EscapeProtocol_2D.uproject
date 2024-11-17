@@ -15,5 +15,11 @@
 			"Name": "OpenImageDenoise",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows",
+		"Linux",
+		"LinuxArm64"
 	]
 }
